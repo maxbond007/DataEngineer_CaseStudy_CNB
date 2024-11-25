@@ -1,4 +1,4 @@
-# CNB Exchange Rates ETL Script
+# CNB Exchange Rates Parser
 
 ## Overview
 This script automates the extraction and transformation of exchange rates from the **Czech National Bank (ČNB)**:
